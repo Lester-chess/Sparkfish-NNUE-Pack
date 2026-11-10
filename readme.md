@@ -1,12 +1,11 @@
-# SparkChess 3.0 Manual
+# SparkFish 3.0 Manual
 
 
 <div align="center">
   <img src="./86245edf-5bf5-404a-a5c6-a809089cd31f .jpg" alt="SparkChess Logo" width="160" style="border-radius: 20%;">
-  <h1>SparkChess 3.0</h1>
+  <h1>SparkFish 3.0</h1>
   <p>A lite chess engine with NNUE</p>
   <p>Supported:Android OEX /Windows</p>
-  <h1>ELO：2621</h1>
   <!-- Windows 平台徽章 -->
 
   [![Platform - Windows](https://img.shields.io/badge/platform-Windows-0078D4?logo=windows&logoColor=white)](https://github.com/USERNAME/REPO/releases)
@@ -33,7 +32,7 @@
 ![Lichess Bullet](https://img.shields.io/badge/dynamic/json?color=0080ff&label=Lichess%20Bullet&logo=lichess&query=%24.perfs.bullet.rating&url=https%3A%2F%2Flichess.org%2Fapi%2Fuser%2FSparkchessengine)
 
 
-SparkChess is a high-performance chess engine compliant with the Universal Chess Interface (UCI) protocol, featuring lite HalfkAv2 NNUE eval.
+SparkFish is a high-performance chess engine compliant with the Universal Chess Interface (UCI) protocol, featuring lite HalfkAv2 NNUE eval.
 
 
 ---
@@ -71,7 +70,7 @@ chmod +x bin/sparkchess
 
 ## 2. Basic UCI Usage
 
-SparkChess conforms to the standard UCI protocol. Launch the executable from a terminal or connect it to any chess GUI (Arena, Cutechess, Bankia, Fritz).
+SparkFish conforms to the standard UCI protocol. Launch the executable from a terminal or connect it to any chess GUI (Arena, Cutechess, Bankia, Fritz).
 
 ### 2.1 Interactive Terminal Mode
 Start the engine directly:
@@ -215,9 +214,9 @@ cutechess-cli \
 ```
 ---
 
-# SparkChess 3.0 使用手册（中文版）
+# SparkFish 3.0 使用手册（中文版）
 
-SparkChess 是一款兼容通用国际象棋接口（UCI）协议的高性能国际象棋引擎，搭载了轻量级的 HalfKAv2 NNUE 评估网络。
+SparkFish 是一款兼容通用国际象棋接口（UCI）协议的高性能国际象棋引擎，搭载了轻量级的 HalfKAv2 NNUE 评估网络。
 
 ---
 
